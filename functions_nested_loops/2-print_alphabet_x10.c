@@ -4,7 +4,7 @@
 */
 void print_alphabet_x10(void)
 {
-	int contar;
+	int contar = 0;
 	char letra;
 
 		while (contar++ <= 9)
