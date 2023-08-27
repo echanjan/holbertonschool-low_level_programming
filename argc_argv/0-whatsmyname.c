@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- *
- *
- *
- *
+ * main - funtion
+ * @argc: name
+ * @argv: matrix
+ * Return: Always 0
  */
 int main(int argc, char *argv[])
 {
