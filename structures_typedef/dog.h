@@ -2,12 +2,13 @@
 #define DOG_H
 /*
  *struct dog - struct that contains the dog info
- * 
+ *
  *@name - name dog
  *@age - age dog
  *@owner - owner dog
  */
-struct dog{
+struct dog
+{
 	char *name;
 	float age;
 	char *owner;
