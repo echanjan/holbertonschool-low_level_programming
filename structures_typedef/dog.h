@@ -32,8 +32,8 @@ void print_dog(struct dog *d);
  */
 typedef struct dog_t
 {
-        char *name;
-        float age;
+	char *name;
+	float age;
 	char *owner;
 } dog;
 
